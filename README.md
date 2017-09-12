@@ -31,8 +31,8 @@ This project is built and tested on Windows 10 OS.
 16. Install twilio with `sudo pip install twilio`.
 17. Create your own Twilio account and get the following information:
 	1. TWILIO_ACCOUNT_SID
-    	2. TWILIO_AUTH_TOKEN
-    	3. TWILIO_NUMBER
+    2. TWILIO_AUTH_TOKEN
+    3. TWILIO_NUMBER
     
     Update config.py with the above information.
 18. Install flask_mail with `sudo pip install flask_mail`.
