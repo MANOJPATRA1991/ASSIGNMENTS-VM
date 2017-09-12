@@ -39,3 +39,7 @@ All the projects for this assignment are built and tested on Windows 10 OS.
 19. Clone the Email-Verification-System project from [https://github.com/MANOJPATRA1991/Email-Verification-System](https://github.com/MANOJPATRA1991/Email-Verification-System) into the **vagrant** directory.
 20. Clone the OTP-based-verification project from [https://github.com/MANOJPATRA1991/OTP-based-verification](https://github.com/MANOJPATRA1991/OTP-based-verification) into the **vagrant** directory.
 18. Run each project with `python run.py` from within the respective project directories(i.e., OTP-based-verification and Email-Verification-System).
+
+## References
+1. [Vagrant](https://www.vagrantup.com/)
+2. [PostgreSQL](https://www.postgresql.org/)
