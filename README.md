@@ -36,4 +36,6 @@ This project is built and tested on Windows 10 OS.
     
     Update config.py with the above information.
 18. Install flask_mail with `sudo pip install flask_mail`.
-18. Run the program with `python run.py` from within the respective project directories(i.e., OTP-based-verification and Email-Verification-System) separately.
+19. Clone the Email-Verification-System project from [https://github.com/MANOJPATRA1991/Email-Verification-System](https://github.com/MANOJPATRA1991/Email-Verification-System) into the **vagrant** directory.
+20. Clone the OTP-based-verification project from here [https://github.com/MANOJPATRA1991/OTP-based-verification](https://github.com/MANOJPATRA1991/OTP-based-verification) into the **vagrant** directory.
+18. Run each project with `python run.py` from within the respective project directories(i.e., OTP-based-verification and Email-Verification-System).
