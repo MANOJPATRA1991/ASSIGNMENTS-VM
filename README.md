@@ -29,16 +29,17 @@ All the projects for this assignment are built and tested on Windows 10 OS.
 14. Install SQLAlchemy with `sudo pip install sqlalchemy`.
 15. Install psycopg2 with `sudo pip install psycopg2`.
 16. Install twilio with `sudo pip install twilio`.
-17. Create your own Twilio account and get the following information:
+17. Install flask_mail with `sudo pip install flask_mail`.
+18. Clone the Email-Verification-System project from [https://github.com/MANOJPATRA1991/Email-Verification-System](https://github.com/MANOJPATRA1991/Email-Verification-System) with `git clone` command into the **vagrant** directory.
+19. Clone the OTP-based-verification project from [https://github.com/MANOJPATRA1991/OTP-based-verification](https://github.com/MANOJPATRA1991/OTP-based-verification) with `git clone` command into the **vagrant** directory.
+
+20. Create your own Twilio account and get the following information:
 	1. TWILIO_ACCOUNT_SID
     2. TWILIO_AUTH_TOKEN
     3. TWILIO_NUMBER
     
     Update OTP-based-verification project's config.py file with the above information.
-18. Install flask_mail with `sudo pip install flask_mail`.
-19. Clone the Email-Verification-System project from [https://github.com/MANOJPATRA1991/Email-Verification-System](https://github.com/MANOJPATRA1991/Email-Verification-System) with `git clone` command into the **vagrant** directory.
-20. Clone the OTP-based-verification project from [https://github.com/MANOJPATRA1991/OTP-based-verification](https://github.com/MANOJPATRA1991/OTP-based-verification) with `git clone` command into the **vagrant** directory.
-18. Run each project with `python run.py` from within the respective project directories(i.e., OTP-based-verification and Email-Verification-System).
+21. Run each project with `python run.py` from within the respective project directories(i.e., OTP-based-verification and Email-Verification-System).
 
 ## References
 1. [Vagrant](https://www.vagrantup.com/)
