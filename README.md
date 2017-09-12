@@ -5,7 +5,7 @@
 All the projects for this assignment are built and tested on Windows 10 OS.
 
 1. Create a new project folder.
-2. Clone the repository to that folder.
+2. Clone this repository to that folder with `git clone` command.
 3. **cd** into the project folder and run `vagrant up` from command prompt.
 4. Once done, run the command `vagrant ssh`.
 5. On the vagrant command line, `cd /vagrant`.
