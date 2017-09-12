@@ -2,7 +2,7 @@
 
 ## Installation and Test requirements
 
-This project is built and tested on Windows 10 OS.
+All the projects for this assignment are built and tested on Windows 10 OS.
 
 1. Create a new project folder.
 2. Clone the repository to that folder.
